@@ -1,0 +1,23 @@
+{
+  "name": "my-wcat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node cat.js"
+  },
+  "bin":{
+    "wcat":"cat.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vansh-Gupta4/Cat-command.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vansh-Gupta4/Cat-command/issues"
+  },
+  "homepage": "https://github.com/Vansh-Gupta4/Cat-command#readme"
+}

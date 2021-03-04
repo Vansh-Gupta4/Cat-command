@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 let fs = require("fs");
 // let str=fs.readFileSync("f.txt").toString()
 // console.log(str);
